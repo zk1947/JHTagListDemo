@@ -18,6 +18,7 @@
 		6DD8A0E028001F4900A7125C /* JHHistoryTagCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DD8A0DB28001F4900A7125C /* JHHistoryTagCell.m */; };
 		6DD8A0E128001F4900A7125C /* JHHistoryTagLayout.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DD8A0DC28001F4900A7125C /* JHHistoryTagLayout.m */; };
 		6DD8A0E228001F4900A7125C /* JHHistoryTagListView.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DD8A0DD28001F4900A7125C /* JHHistoryTagListView.m */; };
+		6DD8A0E528002D8900A7125C /* JHLocalDataTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 6DD8A0E428002D8900A7125C /* JHLocalDataTool.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +43,8 @@
 		6DD8A0DD28001F4900A7125C /* JHHistoryTagListView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JHHistoryTagListView.m; sourceTree = "<group>"; };
 		6DD8A0DE28001F4900A7125C /* JHHistoryTagLayout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JHHistoryTagLayout.h; sourceTree = "<group>"; };
 		6DD8A0DF28001F4900A7125C /* JHHistoryTagListView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JHHistoryTagListView.h; sourceTree = "<group>"; };
+		6DD8A0E328002D8900A7125C /* JHLocalDataTool.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = JHLocalDataTool.h; sourceTree = "<group>"; };
+		6DD8A0E428002D8900A7125C /* JHLocalDataTool.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = JHLocalDataTool.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +105,8 @@
 				6DD8A0DB28001F4900A7125C /* JHHistoryTagCell.m */,
 				6DD8A0DE28001F4900A7125C /* JHHistoryTagLayout.h */,
 				6DD8A0DC28001F4900A7125C /* JHHistoryTagLayout.m */,
+				6DD8A0E328002D8900A7125C /* JHLocalDataTool.h */,
+				6DD8A0E428002D8900A7125C /* JHLocalDataTool.m */,
 			);
 			path = JHTagList;
 			sourceTree = "<group>";
@@ -183,6 +188,7 @@
 				6DD8A0CF28001E1A00A7125C /* main.m in Sources */,
 				6DD8A0D928001E9C00A7125C /* JHHistoryTagModel.m in Sources */,
 				6DD8A0C128001E1800A7125C /* SceneDelegate.m in Sources */,
+				6DD8A0E528002D8900A7125C /* JHLocalDataTool.m in Sources */,
 				6DD8A0E028001F4900A7125C /* JHHistoryTagCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
